@@ -1,5 +1,5 @@
-
-README - Conversor de Assembly para Memória
+# Henrique Kioshi Yamauchi
+# README - Conversor de Assembly para Memória
 
 Este programa em C converte um código em assembly simples para um formato de memória específico e gera um arquivo de memória (`memoria.mem`). O código suporta diretivas `.DATA`, `.CODE`, e `.ORG`, que são usadas para declarar variáveis e instruções, e para definir o endereço inicial da memória.
 
